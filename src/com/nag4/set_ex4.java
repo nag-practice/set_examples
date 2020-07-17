@@ -18,6 +18,7 @@ public class set_ex4 {
 				System.out.println(set);
 				
 				boolean removed = set.removeAll(set);
+				
 				System.out.println(removed);
 				System.out.println(set);
 				
