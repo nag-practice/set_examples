@@ -20,6 +20,8 @@ public class set_ex8 {
 		
 		TreeSet<String> tst = new TreeSet<String>(set);
 		System.out.println(tst);
+		
+		// 9th Example This below one is
 	
 		List<String> lst = new ArrayList<String>(set);
 		System.out.println(lst);
