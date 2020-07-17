@@ -22,6 +22,9 @@ public class set_ex4 {
 				System.out.println(removed);
 				System.out.println(set);
 				
+				boolean clear = set.isEmpty();
+				
+				System.out.println(clear); 
 			}
 
 		}
