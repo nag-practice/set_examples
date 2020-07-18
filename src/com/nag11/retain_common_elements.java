@@ -20,6 +20,13 @@ public class retain_common_elements {
 		System.out.println(b);
 		
 		System.out.println(set1);
+		
+		
+		System.out.println("***************** Remove All Elements *******************");
+		
+		set.removeAll(set);
+		
+		System.out.println(set);
 	}
 
 }
